@@ -23,7 +23,7 @@ public class Encapsulation {
 		s1.setName("Mahesh Chavare");
 		
 		System.out.println(s1.getName());
-		System.out.println(s1.getRollNo());
+		//System.out.println(s1.getRollNo());
 		
 	}
 }
