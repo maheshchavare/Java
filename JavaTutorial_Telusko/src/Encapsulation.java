@@ -24,6 +24,6 @@ public class Encapsulation {
 		
 		System.out.println(s1.getName());
 		//System.out.println(s1.getRollNo());
-		
+		String s = new String("sample");
 	}
 }
